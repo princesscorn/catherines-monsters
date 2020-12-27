@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catherines-monsters/static/css/main.e2708659.chunk.css",
+    "main.js": "/catherines-monsters/static/js/main.f5cd140f.chunk.js",
+    "main.js.map": "/catherines-monsters/static/js/main.f5cd140f.chunk.js.map",
+    "runtime-main.js": "/catherines-monsters/static/js/runtime-main.cc8f52b1.js",
+    "runtime-main.js.map": "/catherines-monsters/static/js/runtime-main.cc8f52b1.js.map",
+    "static/js/2.c1266021.chunk.js": "/catherines-monsters/static/js/2.c1266021.chunk.js",
+    "static/js/2.c1266021.chunk.js.map": "/catherines-monsters/static/js/2.c1266021.chunk.js.map",
+    "static/js/3.79aabebe.chunk.js": "/catherines-monsters/static/js/3.79aabebe.chunk.js",
+    "static/js/3.79aabebe.chunk.js.map": "/catherines-monsters/static/js/3.79aabebe.chunk.js.map",
+    "index.html": "/catherines-monsters/index.html",
+    "static/css/main.e2708659.chunk.css.map": "/catherines-monsters/static/css/main.e2708659.chunk.css.map",
+    "static/js/2.c1266021.chunk.js.LICENSE.txt": "/catherines-monsters/static/js/2.c1266021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc8f52b1.js",
+    "static/js/2.c1266021.chunk.js",
+    "static/css/main.e2708659.chunk.css",
+    "static/js/main.f5cd140f.chunk.js"
+  ]
+}
